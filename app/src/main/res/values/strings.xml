@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPref</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="message">Welcome</string>
+    <string name="open">OPEN</string>
+    <string name="name" />
+    <string name="name_placeholder">""</string>
+    <string name="save_button_string">SAVE</string>
+    <string name="share_preference_key">ContactsSP</string>
+</resources>
